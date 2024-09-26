@@ -1,1 +1,2 @@
 gitlab/gitlab-ee:15.2.0-ee.0
+nginx
