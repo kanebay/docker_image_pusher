@@ -4,3 +4,4 @@ lmsysorg/sglang:latest
 vllm/vllm-openai:latest
 lmsysorg/sglang:v0.3.6-cu124
 centos:centos7.9.2009
+ubuntu:24.04
