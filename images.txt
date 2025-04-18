@@ -1,2 +1,1 @@
-haxqer/jira:9.17.5
-mysql:8.0
+ltbproject/self-service-password:1.7.3
