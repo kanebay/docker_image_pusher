@@ -1,1 +1,1 @@
-ltbproject/self-service-password:1.7.3
+pytorch/pytorch:2.7.0-cuda12.8-cudnn9-runtime
